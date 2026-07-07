@@ -50,12 +50,13 @@ Skills: Android, Java, Kotlin, Python
 </td>
 </tr>
 
+<tr><td colspan="2">&nbsp;</td></tr>
+
 <tr>
 <td valign="top">
 
 ### 🛠️ Tech Stack
 
-**Mobile**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -79,6 +80,8 @@ Skills: Android, Java, Kotlin, Python
 
 </td>
 </tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
 
 <tr>
 <td valign="top">
