@@ -59,18 +59,12 @@ Skills: Android, Java, Kotlin, Python
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-**Architecture & Libraries**
 ![Room](https://img.shields.io/badge/Room-005F73?style=flat-square)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
 ![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=flat-square)
 ![MVVM](https://img.shields.io/badge/MVVM-6E44FF?style=flat-square)
-
-**Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
